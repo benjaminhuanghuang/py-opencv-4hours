@@ -1,9 +1,11 @@
 import cv2 as cv
 
-img = cv.imread('Photos/cats.jpg')
-cv.imshow('Cats', img)
+img = cv.imread('../Resources/Photos/cats.jpg')
 
+# display image as a new window
+cv.imshow('Cats', img)
 cv.waitKey(0)
+
 
 # Reading Videos
 capture = cv.VideoCapture('../Resources/Videos/dog.mp4')

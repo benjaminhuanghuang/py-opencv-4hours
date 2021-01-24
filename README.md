@@ -11,6 +11,11 @@ https://github.com/jasmcaus/opencv-course
 
   . venv3/bin/activate
 ```
+
+install openCV
+```
+  pip install opencv-contrib-python
+```
 caer is a lightweight, scalable Computer Vision library with powerful Image and Video processing operations, designed to help speed up your Computer Vision workflow.
 ```
 $ pip install caer
