@@ -6,6 +6,7 @@ https://github.com/jasmcaus/opencv-course
 
 
 ## Setup
+Use python 3.8.5
 ```
   python3 -m venv ./venv3
 
