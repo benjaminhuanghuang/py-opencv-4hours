@@ -25,3 +25,7 @@ canaro is a Python package solely for Deep Learning models built in Keras
 ```
 $ pip install canaro
 ```
+
+```
+  pip install matplotlib
+```
